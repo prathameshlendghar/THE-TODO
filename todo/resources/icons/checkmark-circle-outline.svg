@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="checkmark-circle-outline" transform="translate(1.5 1.5)">
+    <path id="Path_4" data-name="Path 4" d="M93,78.5A14.5,14.5,0,1,0,78.5,93,14.5,14.5,0,0,0,93,78.5Z" transform="translate(-64 -64)" fill="none" stroke="#03a50e" stroke-miterlimit="10" stroke-width="3"/>
+    <path id="Path_5" data-name="Path 5" d="M174.5,176l-10.15,12.083L160,183.25" transform="translate(-152.75 -167.542)" fill="none" stroke="#03a50e" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  </g>
+</svg>
