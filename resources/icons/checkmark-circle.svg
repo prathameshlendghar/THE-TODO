@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="43.308" height="43.308" viewBox="0 0 43.308 43.308">
+  <g id="checkmark-circle" transform="translate(-62.5 -62.5)">
+    <path id="checkmark-circle-2" data-name="checkmark-circle" d="M104.308,84.154a20.154,20.154,0,1,0-20.154,20.154A20.159,20.159,0,0,0,104.308,84.154Z" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="3"/>
+    <path id="checkmark" d="M180.154,176l-14.108,16.8L160,186.077" transform="translate(-85.923 -100.243)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  </g>
+</svg>
